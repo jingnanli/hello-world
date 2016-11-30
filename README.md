@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+this is the of my github first repository
 has 2 branches, master and readme_edits
